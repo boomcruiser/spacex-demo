@@ -1,0 +1,24 @@
+@import "../variables.scss";
+@media (min-width: 1440px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (min-width: 1600px) {
+  html {
+    font-size: $fontSize1600;
+  }
+}
+@media (min-width: 1900px) {
+  html {
+    font-size: $fontSize1900;
+  }
+}
+
+@media (min-width: 2400px) {
+  html {
+    font-size: $fontSize2400;
+  }
+}

@@ -1,0 +1,7 @@
+@media (min-width: 700px) and (max-width: 1024px) {
+  .card {
+    &__container {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
