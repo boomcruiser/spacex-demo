@@ -36,4 +36,4 @@ So whole project was broken down in following parts :
 Only reason we were missing 100 on Performance tab because the images that came from SpaceX api weren't in the next-gen formats like webp.
 
 That's how I approached this project.
-To check the deployment of the project you can go to [**DEMO**]()
+To check the deployment of the project you can go to [**DEMO**](https://spacex-demo-seven.vercel.app/)
